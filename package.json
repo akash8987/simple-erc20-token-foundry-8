@@ -1,0 +1,8 @@
+{
+  "name": "simple-erc20-token-foundry",
+  "version": "1.0.0",
+  "description": "ERC-20 implementation with Foundry",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
